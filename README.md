@@ -10,14 +10,14 @@ Neural networks are made up of interconnected nodes, which are similar to the ne
 Deep learning is a type of machine learning that uses neural networks with many layers. These deep neural networks are able to learn complex relationships between the input data and the output predictions. This makes them well-suited for solving problems that are difficult for traditional machine learning algorithms to solve.
 
 Here are some of the benefits of using neural networks and deep learning:
---> They can learn complex relationships between the input data and the output predictions.
---> They can be used to solve problems that are difficult for traditional machine learning algorithms to solve.
---> They are becoming increasingly powerful and sophisticated.
+* They can learn complex relationships between the input data and the output predictions.
+* They can be used to solve problems that are difficult for traditional machine learning algorithms to solve.
+* They are becoming increasingly powerful and sophisticated.
 
 However, there are also some challenges associated with using neural networks and deep learning:
---> They can be computationally expensive to train.
---> They can be difficult to interpret.
---> They can be susceptible to overfitting.
+* They can be computationally expensive to train.
+* They can be difficult to interpret.
+* They can be susceptible to overfitting.
 
 Overall, neural networks and deep learning are powerful tools that can be used to solve a wide variety of problems. However, it is important to be aware of the challenges associated with using these techniques before using them.
 
@@ -29,14 +29,14 @@ The Naïve Bayes algorithm calculates the probability of a given data point belo
 
 # Naive Bayes Classification on the Glass Dataset:
 This repository contains code for implementing a Naive Bayes classifier on the glass dataset. The dataset contains attributes of glass samples, and the goal is to predict the type of glass based on these attributes.
---> The code is written in Python and uses the scikit-learn library. The following steps are performed:
---> The glass dataset is loaded.
---> The data is split into training and testing sets.
---> A Gaussian Naive Bayes classifier is created.
---> The classifier is fit to the training data.
---> The classifier is used to predict the class labels for the test data.
---> The accuracy of the classifier is calculated.
---> A classification report is printed.
+* The code is written in Python and uses the scikit-learn library. The following steps are performed:
+* The glass dataset is loaded.
+* The data is split into training and testing sets.
+* A Gaussian Naive Bayes classifier is created.
+* The classifier is fit to the training data.
+* The classifier is used to predict the class labels for the test data.
+* The accuracy of the classifier is calculated.
+* A classification report is printed.
 
 In order to run the code, we need to have Python and the scikit-learn library installed. we can then clone the repository and run the following command:
 
@@ -58,13 +58,13 @@ Linear SVM (Support Vector Machine) is a classification algorithm that separates
 This repository contains code for implementing a linear SVM classifier on the glass dataset. The dataset contains attributes of glass samples, and the goal is to predict the type of glass based on these attributes.
 
 The code is written in Python and uses the scikit-learn library. The following steps are performed:
---> The glass dataset is loaded.
---> The data is split into training and testing sets.
---> A linear SVM classifier is created.
---> The classifier is fit to the training data.
---> The classifier is used to predict the class labels for the test data.
---> The accuracy of the classifier is calculated.
---> A classification report is printed.
+* The glass dataset is loaded.
+* The data is split into training and testing sets.
+* A linear SVM classifier is created.
+* The classifier is fit to the training data.
+* The classifier is used to predict the class labels for the test data.
+* The accuracy of the classifier is calculated.
+* A classification report is printed.
 
 In order to run the code, we need to have Python and the scikit-learn library installed. we can then clone the repository and run the following command:
 
@@ -99,13 +99,13 @@ Once the linear regression model is trained, it can be used to predict the value
 This repository contains code for implementing a linear regression model on the Salary_Data.csv dataset. The dataset contains the years of experience and salaries of a group of employees. The goal is to predict the salary of an employee given their years of experience.
 
 The code is written in Python and uses the scikit-learn library. The following steps are performed:
---> The Salary_Data.csv file is imported.
---> The data is split into train and test partitions.
---> A linear regression model is created.
---> The model is trained on the training data.
---> The salaries for the test data are predicted.
---> The mean squared error is calculated.
---> The train and test data are visualized using a scatter plot.
+* The Salary_Data.csv file is imported.
+* The data is split into train and test partitions.
+* A linear regression model is created.
+* The model is trained on the training data.
+* The salaries for the test data are predicted.
+* The mean squared error is calculated.
+* The train and test data are visualized using a scatter plot.
 
 In order to run the code, we will need to have Python and the scikit-learn library installed. we can then clone the repository and run the following command:
 
