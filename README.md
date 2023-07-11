@@ -45,8 +45,9 @@ In order to run the code, we need to have Python and the scikit-learn library in
 This will run the code and print the accuracy of the classifier and the classification report.
 
 Dependencies
-Python 3.6+
-scikit-learn
+
+* Python 3.6+
+* scikit-learn
 
 
 # Linear SVM Method:
@@ -73,8 +74,9 @@ In order to run the code, we need to have Python and the scikit-learn library in
 This will run the code and print the accuracy of the classifier and the classification report.
 
 Dependencies
-Python 3.6+
-Scikit-learn
+
+* Python 3.6+
+* Scikit-learn
 
 
 
@@ -112,9 +114,15 @@ In order to run the code, we will need to have Python and the scikit-learn libra
 # python code: program-3 LR.py
 
 This will run the code and print the mean squared error, as well as a scatter plot of the predicted salaries and the actual salaries.
+
 Dependencies
-Python 3.6+
-scikit-learn
+
+* Python 3.6+
+* scikit-learn
+
+  # Output
+  ![alt text]("C:\Users\TUMMALA DIVYA SREE\OneDrive\Desktop\LinearRegression output.png")
+
 
 In the output we observe that It is slightly less accurate on the test data than it is on the train data. However, It is still relatively accurate, and the scatter plot shows that the predicted salaries are generally close to the actual salaries.
 
