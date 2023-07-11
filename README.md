@@ -120,10 +120,6 @@ Dependencies
 * Python 3.6+
 * scikit-learn
 
-  # Output
-  ![alt text]("C:\Users\TUMMALA DIVYA SREE\OneDrive\Desktop\LinearRegression output.png")
-
-
 In the output we observe that It is slightly less accurate on the test data than it is on the train data. However, It is still relatively accurate, and the scatter plot shows that the predicted salaries are generally close to the actual salaries.
 
 
